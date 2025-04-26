@@ -13,7 +13,7 @@ The goal of this project is to analyze the demand distribution across warehouses
 In the real world, many businesses face challenges with inventory imbalances across their supply chain, which can lead to stockouts, excess inventory, and inefficiencies in distribution. This problem is particularly critical when demand is not evenly distributed across warehouses, and inventory allocation strategies are not optimized.
 
 ### Dateset
-The dataset “Forecasts for Product Demand”.(https://www.kaggle.com/datasets/felixzhao/productdemandforecasting/). is used from Kaggle. The dataset includes historical product demand for a global manufacturing company offering thousands of products across various categories. With four central warehouses managing regional shipments, products are often manufactured worldwide, requiring over a month for ocean freight delivery.
+The dataset [“Forecasts for Product Demand”](https://www.kaggle.com/datasets/felixzhao/productdemandforecasting/) is used from Kaggle. The dataset includes historical product demand for a global manufacturing company offering thousands of products across various categories. With four central warehouses managing regional shipments, products are often manufactured worldwide, requiring over a month for ocean freight delivery.
 
 ### EDA
 Through exploratory data analysis, the following insights were discovered:
