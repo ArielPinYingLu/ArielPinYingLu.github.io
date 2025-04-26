@@ -3,7 +3,7 @@
 
 ---
 ### Learn About My Projects
-### Supply Chain Demand Analysis: Optimizing Warehouse Inventory and Forecasting Key Product Trends
+### **Supply Chain Demand Analysis: Optimizing Warehouse Inventory and Forecasting Key Product Trends**
 <img src="./images/cover.png?raw=true"/>
 
 ### Goal
