@@ -4,7 +4,7 @@
 ---
 ### Learn About My Projects
 #### [Supply Chain Demand Analysis: Optimizing Warehouse Inventory and Forecasting Key Product Trends]
-[<img src="./images/cover.png>]
+[<img src="./images/cover.png?raw=true"/>]
 
 ### Goal
 The goal of this project is to analyze the demand distribution across warehouses and inventory management practices. The primary focus is on Warehouse J, which exhibits significantly higher demand than other warehouses. Understanding the demand patterns for various products and predicting future trends will enable better inventory management and strategic planning.
